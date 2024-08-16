@@ -3,7 +3,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yourim%Song&fontAlign=50&fontSize=50&descAlignY=60&textBg=false&fontAlignY=38"/>
 </div>
 
-<h3 align=center>💎 Tech Stacks 💎</h3> 
+<h3 align=center>💎 Skills 💎</h3> 
 <div align=center>
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -34,10 +34,8 @@
 <h3 align="center"> Status 🌱</h3>
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api?username=youlimsongs&show_icons=true&theme=radical"/>
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=youlimsongs&show_icons=true&theme=tokyonight"/>
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youlimsongs&theme=tokyonight&layout=compact&include_repo=" />-->
 
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youlimsongs&langs_count=8&layout=compact&theme=radical)  
--->
+</div>
 
