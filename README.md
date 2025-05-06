@@ -5,6 +5,10 @@ I'm currently studying Frontend Development, passionate about intuitive UI and s
 </p>
 
 ---
+<!-- 
+<h2>🔐 Projects </h2>
+<li> <a href = "https://github.com/Techeerlog">TECHEER.LOG</a>: 테커로그 - 동아리 부트캠프 프로젝트 소개<a href = "https://www.techeer.site/"> 웹 사이트</a>  FE 개발 <sub>(2024.07 ~ 2024.12)</sub> </li>
+-->
 
 ### ✨ Tech Stack
 
